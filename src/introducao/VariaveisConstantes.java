@@ -15,7 +15,7 @@ public class VariaveisConstantes {
 		final String TURMA = "Turma 84";
 		final double AREA = 3.1415;
 		
-		System.out.print(nome); // print não pula linha
+		System.out.println(nome); // print não pula linha
 		System.out.println(QUANTIDADE); // println pula a linha
 		System.out.println(graus);
 	}
